@@ -1,2 +1,3 @@
 hello i am from branch1.
 dev2 branch created
+hello edited file after creating dev2
